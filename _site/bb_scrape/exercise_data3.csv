@@ -1,0 +1,887 @@
+,Type,main_muscle,secondary_muscle,equipment,mechanics,level,sport,force
+,Strength,Abdominals,0,Machine,Isolation,Intermediate,No,Pull
+,Stretching,Adductors,0,FoamRoll,Isolation,Intermediate,No,Static
+,Strength,Abdominals, Glutes Hamstrings Shoulders,Kettlebells,Isolation,Intermediate,No,Push
+,PronatedHipFlexorStretch,,,,,,,
+,Strength,Abdominals,0,BodyOnly,Isolation,Beginner,No,Pull
+,Plyometrics,Quadriceps, Abductors Adductors Calves Glutes Hamstrings,None,Compound,Beginner,No,Push
+,Strength,Shoulders,0,Dumbbell,Isolation,Beginner,No,Push
+,Strength,Hamstrings, Biceps Calves Forearms Glutes LowerBack Traps,Kettlebells,Compound,Intermediate,No,Pull
+,Strength,MiddleBack, Biceps Lats,Kettlebells,Isolation,Intermediate,No,Pull
+,Stretching,Calves,0,None,Isolation,Beginner,No,Pull
+,Stretching,Calves,0,Other,N/A,Intermediate,No,Static
+,Stretching,Shoulders, Traps,None,Isolation,Beginner,No,Push
+,Strength,Chest, Shoulders,Dumbbell,Compound,Intermediate,No,Push
+,Strongman,LowerBack, Abdominals Adductors Biceps Calves Forearms Glutes Hamstrings MiddleBack Quadriceps Traps,Other,Compound,Expert,Yes,Pull
+,Strength,Abdominals,0,Machine,Isolation,Intermediate,No,Pull
+,Stretching,Adductors,0,FoamRoll,Isolation,Intermediate,No,Static
+,Strength,Abdominals, Glutes Hamstrings Shoulders,Kettlebells,Isolation,Intermediate,No,Push
+,Stretching,Quadriceps, Quadriceps,BodyOnly,N/A,Intermediate,No,Static
+,Strength,Abdominals,0,BodyOnly,Isolation,Beginner,No,Pull
+,Plyometrics,Quadriceps, Abductors Adductors Calves Glutes Hamstrings,None,Compound,Beginner,No,Push
+,Strength,Shoulders,0,Dumbbell,Isolation,Beginner,No,Push
+,Strength,Hamstrings, Biceps Calves Forearms Glutes LowerBack Traps,Kettlebells,Compound,Intermediate,No,Pull
+,Strength,MiddleBack, Biceps Lats,Kettlebells,Isolation,Intermediate,No,Pull
+,Stretching,Calves,0,None,Isolation,Beginner,No,Pull
+,Stretching,Calves,0,Other,N/A,Intermediate,No,Static
+,Stretching,Shoulders, Traps,None,Isolation,Beginner,No,Push
+,Strength,Chest, Shoulders,Dumbbell,Compound,Intermediate,No,Push
+,Strongman,LowerBack, Abdominals Adductors Biceps Calves Forearms Glutes Hamstrings MiddleBack Quadriceps Traps,Other,Compound,Expert,Yes,Pull
+,Strength,Shoulders, MiddleBack Triceps,Bands,Compound,Beginner,No,Pull
+,Plyometrics,Shoulders,0,MedicineBall,Compound,Beginner,No,Push
+,Strength,Hamstrings, Calves Glutes,ExerciseBall,Isolation,Beginner,No,Pull
+,Powerlifting,Hamstrings, Glutes LowerBack,Bands,Compound,Beginner,No,Pull
+,Strength,Adductors,0,Bands,Isolation,Beginner,No,Pull
+,Strength,Triceps,0,Bands,Isolation,Beginner,No,Push
+,Strength,Abdominals, LowerBack Shoulders,Barbell,Compound,Expert,No,Pull
+,Strength,Biceps, Forearms,Barbell,Isolation,Beginner,No,Pull
+,Strength,LowerBack, Calves Forearms Glutes Hamstrings Lats MiddleBack Quadriceps Traps,Barbell,Compound,Intermediate,Yes,Pull
+,Powerlifting,Glutes, Calves Hamstrings,Barbell,Compound,Intermediate,No,Push
+,Strength,Quadriceps, Calves Forearms Hamstrings,Barbell,Compound,Intermediate,No,Push
+,Strength,Chest, Shoulders Triceps,Barbell,Compound,Beginner,No,Push
+,Strength,Quadriceps, Calves Glutes Hamstrings,Barbell,Compound,Intermediate,No,Push
+,Strength,Abdominals, Glutes Hamstrings Lats Shoulders,Barbell,Compound,Intermediate,No,Pull
+,Strength,Shoulders, Chest Triceps,Barbell,Compound,Intermediate,No,Push
+,Strength,Traps, Forearms MiddleBack,Barbell,Isolation,Beginner,No,Pull
+,Strength,Quadriceps, Calves Hamstrings LowerBack,Barbell,Compound,Beginner,No,Push
+,Strength,Quadriceps, Calves Glutes Hamstrings LowerBack,Barbell,Compound,Expert,No,Push
+,Strength,Quadriceps, Calves Glutes Hamstrings,Barbell,Compound,Beginner,No,Push
+,Strongman,Quadriceps, Calves Glutes Hamstrings,Other,Compound,Beginner,No,Push
+,Strength,Triceps, Chest Shoulders,BodyOnly,Compound,Beginner,No,Push
+,Powerlifting,Triceps, Chest Forearms Lats Shoulders,Barbell,Compound,Intermediate,Yes,Push
+,Powerlifting,Triceps, Chest Lats Shoulders,Barbell,Compound,Expert,No,Push
+,Strength,MiddleBack, Biceps Lats Shoulders,Barbell,Compound,Beginner,No,Pull
+,Strength,Shoulders, LowerBack MiddleBack Traps,Cable,Isolation,Beginner,No,Pull
+,Strength,MiddleBack, Biceps Lats,Barbell,Compound,Intermediate,No,Pull
+,Strength,MiddleBack, Biceps Lats,Dumbbell,Compound,Beginner,No,Pull
+,Strength,Lats, Chest Lats Shoulders Triceps,Barbell,Compound,Intermediate,No,Pull
+,Strength,Abdominals,0,BodyOnly,Compound,Beginner,No,Pull
+,Cardio,Quadriceps, Calves Glutes Hamstrings,Machine,N/A,Beginner,Indoor,No
+,Strength,Triceps,0,BodyOnly,Isolation,Beginner,No,Push
+,Strength,Chest, Abdominals Shoulders Triceps,E-ZCurlBar,Isolation,Intermediate,No,Push
+,Strength,Quadriceps, Glutes Hamstrings,BodyOnly,Compound,Beginner,No,Push
+,Strength,Abdominals,0,Cable,Isolation,Beginner,No,Pull
+,Strength,Forearms, Biceps Shoulders,Kettlebells,Compound,Intermediate,No,Pull
+,Plyometrics,Hamstrings, Abductors Adductors Calves Glutes Quadriceps,Other,Compound,Beginner,No,Push
+,Powerlifting,Quadriceps, Abductors Adductors Calves Glutes Hamstrings LowerBack,Barbell,Compound,Expert,No,Push
+,Stretching,Biceps,0,FoamRoll,N/A,Intermediate,No,Static
+,Strength,Glutes, Hamstrings,BodyOnly,Isolation,Beginner,No,Push
+,Strength,Chest,0,Machine,Isolation,Beginner,No,Pull
+,Strength,Shoulders, MiddleBack Triceps,Bands,Compound,Beginner,No,Pull
+,Plyometrics,Shoulders,0,MedicineBall,Compound,Beginner,No,Push
+,Strength,Hamstrings, Calves Glutes,ExerciseBall,Isolation,Beginner,No,Pull
+,Powerlifting,Hamstrings, Glutes LowerBack,Bands,Compound,Beginner,No,Pull
+,Strength,Adductors,0,Bands,Isolation,Beginner,No,Pull
+,Strength,Triceps,0,Bands,Isolation,Beginner,No,Push
+,Strength,Abdominals, LowerBack Shoulders,Barbell,Compound,Expert,No,Pull
+,Strength,Biceps, Forearms,Barbell,Isolation,Beginner,No,Pull
+,Strength,LowerBack, Calves Forearms Glutes Hamstrings Lats MiddleBack Quadriceps Traps,Barbell,Compound,Intermediate,Yes,Pull
+,Powerlifting,Glutes, Calves Hamstrings,Barbell,Compound,Intermediate,No,Push
+,Strength,Quadriceps, Calves Forearms Hamstrings,Barbell,Compound,Intermediate,No,Push
+,Strength,Chest, Shoulders Triceps,Barbell,Compound,Beginner,No,Push
+,Strength,Quadriceps, Calves Glutes Hamstrings,Barbell,Compound,Intermediate,No,Push
+,Strength,Abdominals, Glutes Hamstrings Lats Shoulders,Barbell,Compound,Intermediate,No,Pull
+,Strength,Shoulders, Chest Triceps,Barbell,Compound,Intermediate,No,Push
+,Strength,Traps, Forearms MiddleBack,Barbell,Isolation,Beginner,No,Pull
+,Strength,Quadriceps, Calves Hamstrings LowerBack,Barbell,Compound,Beginner,No,Push
+,Strength,Quadriceps, Calves Glutes Hamstrings LowerBack,Barbell,Compound,Expert,No,Push
+,Strength,Quadriceps, Calves Glutes Hamstrings,Barbell,Compound,Beginner,No,Push
+,Strongman,Quadriceps, Calves Glutes Hamstrings,Other,Compound,Beginner,No,Push
+,Strength,Triceps, Chest Shoulders,BodyOnly,Compound,Beginner,No,Push
+,Powerlifting,Triceps, Chest Forearms Lats Shoulders,Barbell,Compound,Intermediate,Yes,Push
+,Powerlifting,Triceps, Chest Lats Shoulders,Barbell,Compound,Expert,No,Push
+,Strength,MiddleBack, Biceps Lats Shoulders,Barbell,Compound,Beginner,No,Pull
+,Strength,Shoulders, LowerBack MiddleBack Traps,Cable,Isolation,Beginner,No,Pull
+,Strength,MiddleBack, Biceps Lats,Barbell,Compound,Intermediate,No,Pull
+,Strength,MiddleBack, Biceps Lats,Dumbbell,Compound,Beginner,No,Pull
+,Strength,Lats, Chest Lats Shoulders Triceps,Barbell,Compound,Intermediate,No,Pull
+,Strength,Abdominals,0,BodyOnly,Compound,Beginner,No,Pull
+,Cardio,Quadriceps, Calves Glutes Hamstrings,Machine,N/A,Beginner,Indoor,No
+,Strength,Triceps,0,BodyOnly,Isolation,Beginner,No,Push
+,Strength,Chest, Abdominals Shoulders Triceps,E-ZCurlBar,Isolation,Intermediate,No,Push
+,Strength,Quadriceps, Glutes Hamstrings,BodyOnly,Compound,Beginner,No,Push
+,Strength,Abdominals,0,Cable,Isolation,Beginner,No,Pull
+,Strength,Forearms, Biceps Shoulders,Kettlebells,Compound,Intermediate,No,Pull
+,Plyometrics,Hamstrings, Abductors Adductors Calves Glutes Quadriceps,Other,Compound,Beginner,No,Push
+,Powerlifting,Quadriceps, Abductors Adductors Calves Glutes Hamstrings LowerBack,Barbell,Compound,Expert,No,Push
+,Stretching,Biceps,0,FoamRoll,N/A,Intermediate,No,Static
+,Strength,Glutes, Hamstrings,BodyOnly,Isolation,Beginner,No,Push
+,Strength,Chest,0,Machine,Isolation,Beginner,No,Pull
+,Strength,Chest, Shoulders Triceps,Cable,Compound,Beginner,No,Push
+,Strength,Abdominals,0,Cable,Isolation,Beginner,No,Pull
+,Strength,Biceps,0,Cable,Isolation,Beginner,No,Pull
+,Strength,Lats,0,Cable,Isolation,Beginner,No,Pull
+,Strength,Shoulders,0,Cable,Compound,Beginner,No,Pull
+,Strength,Abdominals,0,Cable,Compound,Beginner,No,Pull
+,Strength,Triceps,0,Cable,Isolation,Beginner,No,Push
+,Strength,Shoulders,0,Cable,Isolation,Beginner,No,Pull
+,Strength,Triceps,0,Cable,Isolation,Beginner,No,Push
+,Strength,Abdominals,0,Cable,Compound,Beginner,No,Pull
+,Strength,Shoulders, MiddleBack Traps,Cable,Isolation,Beginner,No,Pull
+,Strength,Traps,0,Cable,Isolation,Beginner,No,Pull
+,Strength,Forearms,0,Cable,Isolation,Beginner,No,Pull
+,Strength,Calves,0,Machine,Isolation,Beginner,No,Push
+,Strength,Calves,0,Bands,Isolation,Beginner,No,Push
+,Stretching,Calves,0,None,Isolation,Beginner,No,Static
+,Stretching,Calves,0,FoamRoll,N/A,Intermediate,No,Static
+,Strength,Shoulders, Forearms,Other,Isolation,Beginner,No,Push
+,Stretching,LowerBack, MiddleBack Traps,None,N/A,Beginner,No,Static
+,Powerlifting,Triceps,0,Other,Isolation,Intermediate,No,Push
+,Stretching,Hamstrings, Adductors,Other,Isolation,Beginner,No,Static
+,Strength,Quadriceps, Calves Glutes Hamstrings,Machine,Compound,Beginner,No,Push
+,Stretching,Chest, Shoulders,Other,Isolation,Beginner,No,Static
+,Plyometrics,Chest, Abdominals Shoulders Triceps,MedicineBall,Compound,Beginner,No,Push
+,Plyometrics,Chest, Abdominals Shoulders Triceps,MedicineBall,Compound,Beginner,No,Push
+,Stretching,LowerBack, Glutes MiddleBack,None,N/A,Beginner,No,Static
+,Strength,Lats, Biceps Forearms MiddleBack,BodyOnly,Compound,Beginner,No,Pull
+,OlympicWeightlifting,Hamstrings, Calves Forearms Glutes LowerBack Quadriceps Shoulders Traps,Barbell,Compound,Intermediate,No,Pull
+,Strength,Shoulders, Abdominals Calves Glutes Hamstrings LowerBack MiddleBack Quadriceps Shoulders Traps Triceps,Barbell,Compound,Intermediate,No,Push
+,OlympicWeightlifting,Quadriceps, Calves Glutes Hamstrings Shoulders Traps,Barbell,Compound,Intermediate,No,Pull
+,OlympicWeightlifting,Traps, Forearms Shoulders,Barbell,Compound,Beginner,No,Pull
+,Strength,Triceps, Chest Shoulders,Barbell,Compound,Beginner,No,Push
+,Strength,Biceps, Forearms,Barbell,Isolation,Beginner,No,Pull
+,Strength,Triceps, Chest Shoulders,E-ZCurlBar,Compound,Beginner,No,Push
+,Strength,Triceps, Abdominals Chest Shoulders,BodyOnly,Compound,Intermediate,No,Push
+,Strength,Abdominals,0,BodyOnly,Compound,Beginner,No,Pull
+,Strength,Biceps, Forearms,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Chest, Biceps Shoulders,Bands,Compound,Beginner,No,Push
+,Stretching,LowerBack, Abdominals Abductors Glutes Hamstrings Quadriceps,None,N/A,Intermediate,No,Pull
+,Strength,Abdominals,0,BodyOnly,Isolation,Beginner,No,Pull
+,Strength,Abdominals,0,BodyOnly,Isolation,Beginner,No,Pull
+,Strength,Chest, Shoulders Triceps,Cable,Compound,Beginner,No,Push
+,Strength,Abdominals,0,Cable,Isolation,Beginner,No,Pull
+,Strength,Biceps,0,Cable,Isolation,Beginner,No,Pull
+,Strength,Lats,0,Cable,Isolation,Beginner,No,Pull
+,Strength,Shoulders,0,Cable,Compound,Beginner,No,Pull
+,Strength,Abdominals,0,Cable,Compound,Beginner,No,Pull
+,Strength,Triceps,0,Cable,Isolation,Beginner,No,Push
+,Strength,Shoulders,0,Cable,Isolation,Beginner,No,Pull
+,Strength,Triceps,0,Cable,Isolation,Beginner,No,Push
+,Strength,Abdominals,0,Cable,Compound,Beginner,No,Pull
+,Strength,Shoulders, MiddleBack Traps,Cable,Isolation,Beginner,No,Pull
+,Strength,Traps,0,Cable,Isolation,Beginner,No,Pull
+,Strength,Forearms,0,Cable,Isolation,Beginner,No,Pull
+,Strength,Calves,0,Machine,Isolation,Beginner,No,Push
+,Strength,Calves,0,Bands,Isolation,Beginner,No,Push
+,Stretching,Calves,0,None,Isolation,Beginner,No,Static
+,Stretching,Calves,0,FoamRoll,N/A,Intermediate,No,Static
+,Strength,Shoulders, Forearms,Other,Isolation,Beginner,No,Push
+,Stretching,LowerBack, MiddleBack Traps,None,N/A,Beginner,No,Static
+,Powerlifting,Triceps,0,Other,Isolation,Intermediate,No,Push
+,Stretching,Hamstrings, Adductors,Other,Isolation,Beginner,No,Static
+,Strength,Quadriceps, Calves Glutes Hamstrings,Machine,Compound,Beginner,No,Push
+,Stretching,Chest, Shoulders,Other,Isolation,Beginner,No,Static
+,Plyometrics,Chest, Abdominals Shoulders Triceps,MedicineBall,Compound,Beginner,No,Push
+,Plyometrics,Chest, Abdominals Shoulders Triceps,MedicineBall,Compound,Beginner,No,Push
+,Stretching,LowerBack, Glutes MiddleBack,None,N/A,Beginner,No,Static
+,Strength,Lats, Biceps Forearms MiddleBack,BodyOnly,Compound,Beginner,No,Pull
+,OlympicWeightlifting,Hamstrings, Calves Forearms Glutes LowerBack Quadriceps Shoulders Traps,Barbell,Compound,Intermediate,No,Pull
+,Strength,Shoulders, Abdominals Calves Glutes Hamstrings LowerBack MiddleBack Quadriceps Shoulders Traps Triceps,Barbell,Compound,Intermediate,No,Push
+,OlympicWeightlifting,Quadriceps, Calves Glutes Hamstrings Shoulders Traps,Barbell,Compound,Intermediate,No,Pull
+,OlympicWeightlifting,Traps, Forearms Shoulders,Barbell,Compound,Beginner,No,Pull
+,Strength,Triceps, Chest Shoulders,Barbell,Compound,Beginner,No,Push
+,Strength,Biceps, Forearms,Barbell,Isolation,Beginner,No,Pull
+,Strength,Triceps, Chest Shoulders,E-ZCurlBar,Compound,Beginner,No,Push
+,Strength,Triceps, Abdominals Chest Shoulders,BodyOnly,Compound,Intermediate,No,Push
+,Strength,Abdominals,0,BodyOnly,Compound,Beginner,No,Pull
+,Strength,Biceps, Forearms,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Chest, Biceps Shoulders,Bands,Compound,Beginner,No,Push
+,Stretching,LowerBack, Abdominals Abductors Glutes Hamstrings Quadriceps,None,N/A,Intermediate,No,Pull
+,Strength,Abdominals,0,BodyOnly,Isolation,Beginner,No,Pull
+,Strength,Abdominals,0,BodyOnly,Isolation,Beginner,No,Pull
+,Stretching,LowerBack, Abductors Glutes,None,N/A,Beginner,No,Static
+,Powerlifting,LowerBack, Forearms Glutes Hamstrings MiddleBack Quadriceps Traps,Barbell,Compound,Expert,No,Pull
+,Strength,Triceps, Chest Shoulders,Barbell,Compound,Intermediate,No,Push
+,Strength,Chest, Shoulders Triceps,Dumbbell,Compound,Beginner,No,Push
+,Strength,Triceps,0,Dumbbell,Isolation,Beginner,No,Push
+,Strength,Abdominals,0,BodyOnly,Compound,Beginner,No,Pull
+,Strength,Abdominals,0,BodyOnly,Compound,Beginner,No,Pull
+,Powerlifting,LowerBack, Forearms Glutes Hamstrings MiddleBack Quadriceps Traps,Barbell,Compound,Intermediate,No,Pull
+,Strength,Triceps, Chest Shoulders,Machine,Compound,Beginner,No,Push
+,Strength,Triceps, Chest Shoulders,BodyOnly,Compound,Beginner,No,Push
+,Strength,Hamstrings, Biceps Calves Forearms Glutes LowerBack Quadriceps Traps,Kettlebells,Compound,Intermediate,No,Pull
+,Strength,Shoulders, Calves Quadriceps Triceps,Kettlebells,Compound,Intermediate,No,Push
+,Strength,Abdominals, Glutes Hamstrings Shoulders Triceps,Kettlebells,N/A,Intermediate,No,Pull
+,Strength,Glutes, Abdominals Hamstrings,ExerciseBall,Isolation,Intermediate,No,Static
+,Plyometrics,Chest, Shoulders Triceps,Other,Compound,Intermediate,No,Push
+,Strength,Chest, Shoulders Triceps,Dumbbell,Compound,Beginner,No,Push
+,Strength,Biceps, Forearms,Dumbbell,Isolation,Beginner,No,Pull
+,Powerlifting,Triceps, Chest Shoulders,Dumbbell,Compound,Intermediate,No,Push
+,Strength,MiddleBack, Biceps Forearms Lats Shoulders,Dumbbell,Compound,Beginner,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings,Dumbbell,Compound,Beginner,No,Push
+,Strength,Forearms,0,Dumbbell,Isolation,Intermediate,No,Pull
+,Strength,Forearms,0,Dumbbell,Isolation,Intermediate,No,Pull
+,Strength,Triceps,0,Dumbbell,Isolation,Intermediate,No,Push
+,Strength,Biceps,0,Dumbbell,Isolation,Intermediate,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings,Dumbbell,Compound,Intermediate,No,Push
+,Plyometrics,Quadriceps, Calves Glutes Hamstrings,Compound,Intermediate,No,Push,
+,Strength,Shoulders, Triceps,Dumbbell,Compound,Intermediate,No,Push
+,Strength,Abdominals,0,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings LowerBack,Dumbbell,Compound,Intermediate,No,Push
+,Strength,Triceps,0,Dumbbell,Isolation,Beginner,No,Push
+,Stretching,Chest, MiddleBack,None,N/A,Beginner,No,Pull
+,Stretching,LowerBack, Abductors Glutes,None,N/A,Beginner,No,Static
+,Powerlifting,LowerBack, Forearms Glutes Hamstrings MiddleBack Quadriceps Traps,Barbell,Compound,Expert,No,Pull
+,Strength,Triceps, Chest Shoulders,Barbell,Compound,Intermediate,No,Push
+,Strength,Chest, Shoulders Triceps,Dumbbell,Compound,Beginner,No,Push
+,Strength,Triceps,0,Dumbbell,Isolation,Beginner,No,Push
+,Strength,Abdominals,0,BodyOnly,Compound,Beginner,No,Pull
+,Strength,Abdominals,0,BodyOnly,Compound,Beginner,No,Pull
+,Powerlifting,LowerBack, Forearms Glutes Hamstrings MiddleBack Quadriceps Traps,Barbell,Compound,Intermediate,No,Pull
+,Strength,Triceps, Chest Shoulders,Machine,Compound,Beginner,No,Push
+,Strength,Triceps, Chest Shoulders,BodyOnly,Compound,Beginner,No,Push
+,Strength,Hamstrings, Biceps Calves Forearms Glutes LowerBack Quadriceps Traps,Kettlebells,Compound,Intermediate,No,Pull
+,Strength,Shoulders, Calves Quadriceps Triceps,Kettlebells,Compound,Intermediate,No,Push
+,Strength,Abdominals, Glutes Hamstrings Shoulders Triceps,Kettlebells,N/A,Intermediate,No,Pull
+,Strength,Glutes, Abdominals Hamstrings,ExerciseBall,Isolation,Intermediate,No,Static
+,Plyometrics,Chest, Shoulders Triceps,Other,Compound,Intermediate,No,Push
+,Strength,Chest, Shoulders Triceps,Dumbbell,Compound,Beginner,No,Push
+,Strength,Biceps, Forearms,Dumbbell,Isolation,Beginner,No,Pull
+,Powerlifting,Triceps, Chest Shoulders,Dumbbell,Compound,Intermediate,No,Push
+,Strength,MiddleBack, Biceps Forearms Lats Shoulders,Dumbbell,Compound,Beginner,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings,Dumbbell,Compound,Beginner,No,Push
+,Strength,Forearms,0,Dumbbell,Isolation,Intermediate,No,Pull
+,Strength,Forearms,0,Dumbbell,Isolation,Intermediate,No,Pull
+,Strength,Triceps,0,Dumbbell,Isolation,Intermediate,No,Push
+,Strength,Biceps,0,Dumbbell,Isolation,Intermediate,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings,Dumbbell,Compound,Intermediate,No,Push
+,Plyometrics,Quadriceps, Calves Glutes Hamstrings,Compound,Intermediate,No,Push,
+,Strength,Shoulders, Triceps,Dumbbell,Compound,Intermediate,No,Push
+,Strength,Abdominals,0,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings LowerBack,Dumbbell,Compound,Intermediate,No,Push
+,Strength,Triceps,0,Dumbbell,Isolation,Beginner,No,Push
+,Stretching,Chest, MiddleBack,None,N/A,Beginner,No,Pull
+,Stretching,Shoulders, Traps,None,Isolation,Beginner,No,Pull
+,Stretching,Chest, Shoulders,None,Isolation,Beginner,No,Static
+,Strength,Lats, MiddleBack Traps,Cable,Compound,Intermediate,No,Pull
+,Strength,Abdominals,0,ExerciseBall,Isolation,Beginner,No,Pull
+,Strength,Chest, Shoulders Triceps,Kettlebells,Compound,Beginner,No,Push
+,Strength,Shoulders,0,Bands,Compound,Beginner,No,Pull
+,Strength,Biceps,0,E-ZCurlBar,Isolation,Beginner,No,Pull
+,Stretching,Shoulders, Traps,None,Isolation,Beginner,No,Pull
+,Stretching,Chest, Shoulders,None,Isolation,Beginner,No,Static
+,Strength,Lats, MiddleBack Traps,Cable,Compound,Intermediate,No,Pull
+,Strength,Abdominals,0,ExerciseBall,Isolation,Beginner,No,Pull
+,Strength,Chest, Shoulders Triceps,Kettlebells,Compound,Beginner,No,Push
+,Strength,Shoulders,0,Bands,Compound,Beginner,No,Pull
+,Strength,Biceps,0,E-ZCurlBar,Isolation,Beginner,No,Pull
+,Strength,Shoulders, MiddleBack,Cable,Compound,Intermediate,No,Pull
+,Plyometrics,Quadriceps, Abductors Adductors Calves Glutes Hamstrings,BodyOnly,Compound,Beginner,No,Push
+,Strength,Chest,0,Cable,Isolation,Intermediate,No,Push
+,Strength,Abdominals,0,BodyOnly,Isolation,Beginner,No,Pull
+,Strength,Hamstrings, Calves Glutes,None,Isolation,Intermediate,No,Pull
+,Powerlifting,Triceps, Chest Shoulders,Barbell,Compound,Intermediate,No,Push
+,Stretching,Calves,0,Other,N/A,Intermediate,No,Static
+,OlympicWeightlifting,Quadriceps, Abdominals Calves Glutes Hamstrings,Barbell,Compound,Intermediate,No,Push
+,Stretching,Quadriceps, Calves Glutes Hamstrings,None,Compound,Intermediate,No,Push
+,Strength,Quadriceps, Calves Glutes Hamstrings,Barbell,Compound,Expert,No,Push
+,Plyometrics,Hamstrings, Abductors Adductors Calves Glutes Quadriceps,Other,Compound,Beginner,No,Push
+,Plyometrics,Quadriceps, Abductors Adductors Calves Glutes Hamstrings,Other,Compound,Beginner,No,Push
+,Strength,Shoulders,0,Dumbbell,Isolation,Beginner,No,Push
+,Strength,Shoulders,0,Other,Isolation,Intermediate,No,Push
+,Strength,Quadriceps, Abdominals Glutes Hamstrings,Barbell,Compound,Intermediate,No,Push
+,Strength,Shoulders,0,Dumbbell,Isolation,Beginner,No,Push
+,Strength,Shoulders, MiddleBack,Cable,Compound,Intermediate,No,Pull
+,Plyometrics,Quadriceps, Abductors Adductors Calves Glutes Hamstrings,BodyOnly,Compound,Beginner,No,Push
+,Strength,Chest,0,Cable,Isolation,Intermediate,No,Push
+,Strength,Abdominals,0,BodyOnly,Isolation,Beginner,No,Pull
+,Strength,Hamstrings, Calves Glutes,None,Isolation,Intermediate,No,Pull
+,Powerlifting,Triceps, Chest Shoulders,Barbell,Compound,Intermediate,No,Push
+,Stretching,Calves,0,Other,N/A,Intermediate,No,Static
+,OlympicWeightlifting,Quadriceps, Abdominals Calves Glutes Hamstrings,Barbell,Compound,Intermediate,No,Push
+,Stretching,Quadriceps, Calves Glutes Hamstrings,None,Compound,Intermediate,No,Push
+,Strength,Quadriceps, Calves Glutes Hamstrings,Barbell,Compound,Expert,No,Push
+,Plyometrics,Hamstrings, Abductors Adductors Calves Glutes Quadriceps,Other,Compound,Beginner,No,Push
+,Plyometrics,Quadriceps, Abductors Adductors Calves Glutes Hamstrings,Other,Compound,Beginner,No,Push
+,Strength,Shoulders,0,Dumbbell,Isolation,Beginner,No,Push
+,Strength,Shoulders,0,Other,Isolation,Intermediate,No,Push
+,Strength,Quadriceps, Abdominals Glutes Hamstrings,Barbell,Compound,Intermediate,No,Push
+,Strength,Shoulders,0,Dumbbell,Isolation,Beginner,No,Push
+,Strength,Lats, Biceps MiddleBack,Other,Compound,Intermediate,No,Pull
+,Strength,Glutes, Hamstrings,BodyOnly,Compound,Beginner,No,Push
+,Powerlifting,Hamstrings, Abdominals Glutes LowerBack,Barbell,Compound,Intermediate,No,Push
+,Strength,Abdominals, Biceps Lats,BodyOnly,Compound,Intermediate,No,Pull
+,Stretching,Adductors,0,BodyOnly,Compound,Intermediate,No,Pull
+,Strength,Lats, Biceps MiddleBack,Other,Compound,Intermediate,No,Pull
+,Strength,Glutes, Hamstrings,BodyOnly,Compound,Beginner,No,Push
+,Powerlifting,Hamstrings, Abdominals Glutes LowerBack,Barbell,Compound,Intermediate,No,Push
+,Strength,Abdominals, Biceps Lats,BodyOnly,Compound,Intermediate,No,Pull
+,Stretching,Adductors,0,BodyOnly,Compound,Intermediate,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings,Machine,Compound,Beginner,No,Push
+,Strength,Chest, Shoulders Triceps,Dumbbell,Compound,Beginner,No,Push
+,Stretching,Hamstrings,0,FoamRoll,Isolation,Beginner,No,Static
+,OlympicWeightlifting,Quadriceps, Calves Forearms Glutes Hamstrings LowerBack Shoulders Traps,Barbell,Compound,Intermediate,No,Pull
+,OlympicWeightlifting,Hamstrings, Abdominals Calves Forearms Glutes LowerBack Quadriceps Shoulders Traps,Barbell,Compound,Expert,No,Pull
+,Powerlifting,Hamstrings, Abdominals Glutes LowerBack,Barbell,Compound,Intermediate,No,Push
+,Strength,Abdominals,0,BodyOnly,Compound,Expert,No,Pull
+,Plyometrics,Chest, Abdominals Shoulders Triceps,Other,Compound,Beginner,No,Push
+,Stretching,Abductors, Adductors,BodyOnly,Isolation,Beginner,No,Pull
+,Strength,Glutes, Hamstrings,Bands,Compound,Beginner,No,Push
+,Powerlifting,Glutes, Calves Hamstrings,Bands,Compound,Beginner,No,Push
+,Stretching,LowerBack, Glutes,None,N/A,Beginner,No,Static
+,Strength,LowerBack, Glutes Hamstrings,Other,Isolation,Beginner,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings,Machine,Compound,Beginner,No,Push
+,Strength,Chest, Shoulders Triceps,Dumbbell,Compound,Beginner,No,Push
+,Stretching,Hamstrings,0,FoamRoll,Isolation,Beginner,No,Static
+,OlympicWeightlifting,Quadriceps, Calves Forearms Glutes Hamstrings LowerBack Shoulders Traps,Barbell,Compound,Intermediate,No,Pull
+,OlympicWeightlifting,Hamstrings, Abdominals Calves Forearms Glutes LowerBack Quadriceps Shoulders Traps,Barbell,Compound,Expert,No,Pull
+,Powerlifting,Hamstrings, Abdominals Glutes LowerBack,Barbell,Compound,Intermediate,No,Push
+,Strength,Abdominals,0,BodyOnly,Compound,Expert,No,Pull
+,Plyometrics,Chest, Abdominals Shoulders Triceps,Other,Compound,Beginner,No,Push
+,Stretching,Abductors, Adductors,BodyOnly,Isolation,Beginner,No,Pull
+,Strength,Glutes, Hamstrings,Bands,Compound,Beginner,No,Push
+,Powerlifting,Glutes, Calves Hamstrings,Bands,Compound,Beginner,No,Push
+,Stretching,LowerBack, Glutes,None,N/A,Beginner,No,Static
+,Strength,LowerBack, Glutes Hamstrings,Other,Isolation,Beginner,No,Pull
+,Stretching,Abductors,0,FoamRoll,Isolation,Intermediate,No,Static
+,Strength,MiddleBack, Lats Shoulders,Barbell,Isolation,Beginner,No,Pull
+,Strength,Chest, Shoulders,Cable,Isolation,Intermediate,No,Push
+,Strength,Biceps,0,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Chest, Shoulders,Dumbbell,Compound,Beginner,No,Push
+,Strength,Biceps,0,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Chest, Shoulders Triceps,BodyOnly,Compound,Beginner,No,Push
+,Plyometrics,Chest, Shoulders Triceps,Other,Compound,Beginner,No,Push
+,Strength,Chest, Abdominals Shoulders Triceps,BodyOnly,Compound,Beginner,No,Push
+,Stretching,Hamstrings,0,Other,Isolation,Intermediate,No,Static
+,Strength,Shoulders,0,Bands,Isolation,Beginner,No,N/A
+,Strength,MiddleBack, Biceps Lats,Other,Compound,Beginner,No,Pull
+,Stretching,Quadriceps,0,None,Compound,Intermediate,No,Pull
+,Strength,Neck,0,BodyOnly,Isolation,Beginner,No,Static
+,Strength,Chest, Abdominals Shoulders Triceps,BodyOnly,Compound,Beginner,No,Push
+,Stretching,Abductors,0,FoamRoll,Isolation,Intermediate,No,Static
+,Strength,MiddleBack, Lats Shoulders,Barbell,Isolation,Beginner,No,Pull
+,Strength,Chest, Shoulders,Cable,Isolation,Intermediate,No,Push
+,Strength,Biceps,0,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Chest, Shoulders,Dumbbell,Compound,Beginner,No,Push
+,Strength,Biceps,0,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Chest, Shoulders Triceps,BodyOnly,Compound,Beginner,No,Push
+,Plyometrics,Chest, Shoulders Triceps,Other,Compound,Beginner,No,Push
+,Strength,Chest, Abdominals Shoulders Triceps,BodyOnly,Compound,Beginner,No,Push
+,Stretching,Hamstrings,0,Other,Isolation,Intermediate,No,Static
+,Strength,Shoulders,0,Bands,Isolation,Beginner,No,N/A
+,Strength,MiddleBack, Biceps Lats,Other,Compound,Beginner,No,Pull
+,Stretching,Quadriceps,0,None,Compound,Intermediate,No,Pull
+,Strength,Neck,0,BodyOnly,Isolation,Beginner,No,Static
+,Strength,Chest, Abdominals Shoulders Triceps,BodyOnly,Compound,Beginner,No,Push
+,Strength,Abdominals,0,BodyOnly,Compound,Beginner,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings LowerBack Traps,Barbell,Compound,Intermediate,No,Push
+,OlympicWeightlifting,Quadriceps, Abdominals Calves,Barbell,Compound,Intermediate,No,Push
+,Cardio,Quadriceps, Glutes Hamstrings,Machine,N/A,Beginner,Indoor,No
+,Strength,Abdominals,0,BodyOnly,Compound,Beginner,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings LowerBack Traps,Barbell,Compound,Intermediate,No,Push
+,OlympicWeightlifting,Quadriceps, Abdominals Calves,Barbell,Compound,Intermediate,No,Push
+,Cardio,Quadriceps, Glutes Hamstrings,Machine,N/A,Beginner,Indoor,No
+,Strongman,LowerBack, Abdominals Biceps Calves Forearms Glutes Hamstrings MiddleBack Quadriceps Shoulders Traps,Other,Compound,Intermediate,Yes,Pull
+,Strength,Hamstrings, Calves Glutes LowerBack Quadriceps Traps,Kettlebells,Compound,Intermediate,No,Pull
+,Strength,Hamstrings, Calves Glutes LowerBack Shoulders Traps,Kettlebells,Compound,Intermediate,No,Pull
+,Strength,Abdominals, Glutes Hamstrings Shoulders,Kettlebells,Compound,Intermediate,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings Shoulders,Kettlebells,Compound,Expert,No,Push
+,Strength,Shoulders, Triceps,Kettlebells,Compound,Intermediate,No,Push
+,Strength,Shoulders, Quadriceps Triceps,Kettlebells,Compound,Intermediate,No,Push
+,Strength,Shoulders, Abdominals Calves Hamstrings Quadriceps Triceps,Kettlebells,Compound,Intermediate,No,Push
+,Strength,Lats, Abdominals Biceps Forearms MiddleBack Shoulders Traps Triceps,Other,Compound,Intermediate,No,Pull
+,Stretching,Calves, Hamstrings Quadriceps,BodyOnly,Compound,Beginner,No,Pull
+,Strength,Abdominals,0,Other,Isolation,Beginner,No,Pull
+,Strength,Abdominals,0,Cable,Isolation,Beginner,No,Pull
+,Stretching,Forearms,0,None,Isolation,Beginner,No,Static
+,Stretching,Quadriceps, Quadriceps,None,Isolation,Beginner,No,Static
+,Strength,Lats, Biceps MiddleBack,Cable,Compound,Beginner,No,Pull
+,Strongman,LowerBack, Abdominals Biceps Calves Forearms Glutes Hamstrings MiddleBack Quadriceps Shoulders Traps,Other,Compound,Intermediate,Yes,Pull
+,Strength,Hamstrings, Calves Glutes LowerBack Quadriceps Traps,Kettlebells,Compound,Intermediate,No,Pull
+,Strength,Hamstrings, Calves Glutes LowerBack Shoulders Traps,Kettlebells,Compound,Intermediate,No,Pull
+,Strength,Abdominals, Glutes Hamstrings Shoulders,Kettlebells,Compound,Intermediate,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings Shoulders,Kettlebells,Compound,Expert,No,Push
+,Strength,Shoulders, Triceps,Kettlebells,Compound,Intermediate,No,Push
+,Strength,Shoulders, Quadriceps Triceps,Kettlebells,Compound,Intermediate,No,Push
+,Strength,Shoulders, Abdominals Calves Hamstrings Quadriceps Triceps,Kettlebells,Compound,Intermediate,No,Push
+,Strength,Lats, Abdominals Biceps Forearms MiddleBack Shoulders Traps Triceps,Other,Compound,Intermediate,No,Pull
+,Stretching,Calves, Hamstrings Quadriceps,BodyOnly,Compound,Beginner,No,Pull
+,Strength,Abdominals,0,Other,Isolation,Beginner,No,Pull
+,Strength,Abdominals,0,Cable,Isolation,Beginner,No,Pull
+,Stretching,Forearms,0,None,Isolation,Beginner,No,Static
+,Stretching,Quadriceps, Quadriceps,None,Isolation,Beginner,No,Static
+,Strength,Lats, Biceps MiddleBack,Cable,Compound,Beginner,No,Pull
+,Strength,Abdominals, Glutes LowerBack Shoulders,Barbell,Compound,Beginner,No,Pull
+,Plyometrics,Adductors, Abductors Calves Glutes Hamstrings Quadriceps,BodyOnly,Compound,Beginner,No,Push
+,Plyometrics,Adductors, Abductors Calves Glutes Hamstrings Quadriceps,Other,Compound,Beginner,No,Push
+,Stretching,Lats,0,FoamRoll,Isolation,Beginner,No,Static
+,Strength,Glutes, Hamstrings,BodyOnly,Isolation,Beginner,No,Push
+,Strength,Abdominals,0,BodyOnly,Compound,Beginner,No,Pull
+,Stretching,Hamstrings,0,None,Isolation,Beginner,No,Push
+,Strength,Quadriceps, Glutes Hamstrings,Machine,Compound,Beginner,No,Pull
+,Strength,MiddleBack, Lats,Machine,Compound,Beginner,No,Pull
+,Strength,Lats, Biceps MiddleBack,Machine,Compound,Beginner,No,Pull
+,Strength,Traps, Forearms,Machine,Isolation,Beginner,No,Pull
+,Plyometrics,Hamstrings, Calves Glutes Quadriceps,None,Compound,Beginner,Both,No
+,Strongman,Shoulders, Abdominals Chest Glutes Hamstrings LowerBack MiddleBack Quadriceps Traps Triceps,Other,Compound,Intermediate,Yes,Push
+,Stretching,Quadriceps,0,None,Isolation,Beginner,No,Static
+,Strength,Triceps,0,Cable,Isolation,Beginner,No,Push
+,Stretching,Abdominals,0,BodyOnly,N/A,Beginner,No,Static
+,Strength,Hamstrings, Calves Glutes Quadriceps,Kettlebells,Compound,Intermediate,No,Push
+,Stretching,Adductors,0,Other,N/A,Expert,No,Static
+,Strength,MiddleBack, Biceps Lats Traps,Barbell,Isolation,Beginner,No,Pull
+,Strength,Triceps,0,Barbell,Isolation,Intermediate,No,Push
+,Stretching,Abductors,0,BodyOnly,N/A,Expert,No,Static
+,Strength,Neck,0,Other,Isolation,Intermediate,No,Pull
+,Stretching,Glutes, Abductors,BodyOnly,N/A,Expert,No,Static
+,Strength,Biceps,0,Barbell,Isolation,Intermediate,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings,Machine,Compound,Intermediate,No,Push
+,Stretching,Quadriceps,0,BodyOnly,N/A,Expert,No,N/A
+,Strength,Biceps,0,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Triceps,0,E-ZCurlBar,Isolation,Intermediate,No,Push
+,Strength,Abdominals, Glutes LowerBack Shoulders,Barbell,Compound,Beginner,No,Pull
+,Plyometrics,Adductors, Abductors Calves Glutes Hamstrings Quadriceps,BodyOnly,Compound,Beginner,No,Push
+,Plyometrics,Adductors, Abductors Calves Glutes Hamstrings Quadriceps,Other,Compound,Beginner,No,Push
+,Stretching,Lats,0,FoamRoll,Isolation,Beginner,No,Static
+,Strength,Glutes, Hamstrings,BodyOnly,Isolation,Beginner,No,Push
+,Strength,Abdominals,0,BodyOnly,Compound,Beginner,No,Pull
+,Stretching,Hamstrings,0,None,Isolation,Beginner,No,Push
+,Strength,Quadriceps, Glutes Hamstrings,Machine,Compound,Beginner,No,Pull
+,Strength,MiddleBack, Lats,Machine,Compound,Beginner,No,Pull
+,Strength,Lats, Biceps MiddleBack,Machine,Compound,Beginner,No,Pull
+,Strength,Traps, Forearms,Machine,Isolation,Beginner,No,Pull
+,Plyometrics,Hamstrings, Calves Glutes Quadriceps,None,Compound,Beginner,Both,No
+,Strongman,Shoulders, Abdominals Chest Glutes Hamstrings LowerBack MiddleBack Quadriceps Traps Triceps,Other,Compound,Intermediate,Yes,Push
+,Stretching,Quadriceps,0,None,Isolation,Beginner,No,Static
+,Strength,Triceps,0,Cable,Isolation,Beginner,No,Push
+,Stretching,Abdominals,0,BodyOnly,N/A,Beginner,No,Static
+,Strength,Hamstrings, Calves Glutes Quadriceps,Kettlebells,Compound,Intermediate,No,Push
+,Stretching,Adductors,0,Other,N/A,Expert,No,Static
+,Strength,MiddleBack, Biceps Lats Traps,Barbell,Isolation,Beginner,No,Pull
+,Strength,Triceps,0,Barbell,Isolation,Intermediate,No,Push
+,Stretching,Abductors,0,BodyOnly,N/A,Expert,No,Static
+,Strength,Neck,0,Other,Isolation,Intermediate,No,Pull
+,Stretching,Glutes, Abductors,BodyOnly,N/A,Expert,No,Static
+,Strength,Biceps,0,Barbell,Isolation,Intermediate,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings,Machine,Compound,Intermediate,No,Push
+,Stretching,Quadriceps,0,BodyOnly,N/A,Expert,No,N/A
+,Strength,Biceps,0,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Triceps,0,E-ZCurlBar,Isolation,Intermediate,No,Push
+,Strength,Chest, Shoulders Triceps,Machine,Compound,Beginner,No,Push
+,Strength,Biceps,0,Machine,Isolation,Beginner,No,Pull
+,Strength,Triceps,0,Machine,Isolation,Beginner,No,Push
+,Plyometrics,Abdominals, Shoulders,MedicineBall,Compound,Beginner,No,Pull
+,Strength,MiddleBack,0,Dumbbell,Isolation,Intermediate,No,Pull
+,Strength,MiddleBack, Biceps Lats,Other,Compound,Expert,No,Pull
+,Plyometrics,Quadriceps, Chest Hamstrings Shoulders,None,Compound,Beginner,No,Pull
+,OlympicWeightlifting,Hamstrings, Glutes LowerBack Quadriceps Shoulders Triceps,Barbell,Compound,Intermediate,No,Pull
+,Strength,Chest, Shoulders Triceps,Machine,Compound,Beginner,No,Push
+,Strength,Biceps,0,Machine,Isolation,Beginner,No,Pull
+,Strength,Triceps,0,Machine,Isolation,Beginner,No,Push
+,Plyometrics,Abdominals, Shoulders,MedicineBall,Compound,Beginner,No,Pull
+,Strength,MiddleBack,0,Dumbbell,Isolation,Intermediate,No,Pull
+,Strength,MiddleBack, Biceps Lats,Other,Compound,Expert,No,Pull
+,Plyometrics,Quadriceps, Chest Hamstrings Shoulders,None,Compound,Beginner,No,Pull
+,OlympicWeightlifting,Hamstrings, Glutes LowerBack Quadriceps Shoulders Triceps,Barbell,Compound,Intermediate,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings,Machine,Compound,Intermediate,No,Push
+,Strength,Quadriceps, Calves Glutes Hamstrings LowerBack,Barbell,Compound,Intermediate,No,Push
+,Strength,Chest, Shoulders Triceps,Barbell,Compound,Intermediate,No,Push
+,Strength,Quadriceps, Calves Glutes Hamstrings,Machine,Compound,Intermediate,No,Push
+,Strength,Quadriceps, Calves Glutes Hamstrings LowerBack,Barbell,Compound,Intermediate,No,Push
+,Strength,Chest, Shoulders Triceps,Barbell,Compound,Intermediate,No,Push
+,Strength,Abdominals,0,BodyOnly,Isolation,Beginner,No,Pull
+,OlympicWeightlifting,Quadriceps, Calves Glutes Hamstrings,Barbell,Compound,Intermediate,Yes,Push
+,Stretching,Quadriceps,0,Other,Isolation,Beginner,No,Static
+,Strength,MiddleBack, Biceps Forearms Lats,Other,Compound,Expert,No,Pull
+,Strength,Biceps,0,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Lats, Biceps MiddleBack,Cable,Compound,Beginner,No,Pull
+,Strength,Triceps,0,Dumbbell,Isolation,Beginner,No,Push
+,Stretching,Lats, Biceps,Other,N/A,Beginner,No,Static
+,Strength,Quadriceps, Calves Glutes Hamstrings,Barbell,Compound,Expert,No,Push
+,Strength,Chest,0,Dumbbell,Isolation,Beginner,No,Push
+,Strength,Shoulders,0,Dumbbell,Isolation,Beginner,No,Push
+,Strength,Shoulders,0,Kettlebells,Compound,Intermediate,No,Push
+,Strength,Shoulders, Calves Quadriceps Triceps,Kettlebells,Compound,Intermediate,No,Push
+,Strength,Shoulders, Triceps,Kettlebells,Compound,Intermediate,No,Push
+,Strength,MiddleBack, Biceps Lats,Kettlebells,Compound,Intermediate,No,Pull
+,Strength,Shoulders, Glutes Hamstrings Quadriceps Triceps,Kettlebells,Compound,Intermediate,No,Push
+,Strength,Hamstrings, Calves Glutes LowerBack Shoulders,Kettlebells,Compound,Intermediate,No,Pull
+,Strength,Abdominals, Lats Shoulders,MedicineBall,Compound,Beginner,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings Shoulders,Kettlebells,Compound,Expert,No,Push
+,Strength,Shoulders,0,Dumbbell,Isolation,Beginner,No,Push
+,Strength,Hamstrings, Glutes LowerBack Quadriceps Shoulders,Kettlebells,Compound,Expert,No,Pull
+,Strength,Biceps,0,Cable,Isolation,Intermediate,No,Pull
+,Plyometrics,Lats,0,MedicineBall,Compound,Beginner,No,Pull
+,Stretching,Abdominals, Chest Forearms Lats Triceps,None,Compound,Beginner,No,Static
+,Strength,Abdominals,0,BodyOnly,Isolation,Beginner,No,Pull
+,OlympicWeightlifting,Quadriceps, Calves Glutes Hamstrings,Barbell,Compound,Intermediate,Yes,Push
+,Stretching,Quadriceps,0,Other,Isolation,Beginner,No,Static
+,Strength,MiddleBack, Biceps Forearms Lats,Other,Compound,Expert,No,Pull
+,Strength,Biceps,0,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Lats, Biceps MiddleBack,Cable,Compound,Beginner,No,Pull
+,Strength,Triceps,0,Dumbbell,Isolation,Beginner,No,Push
+,Stretching,Lats, Biceps,Other,N/A,Beginner,No,Static
+,Strength,Quadriceps, Calves Glutes Hamstrings,Barbell,Compound,Expert,No,Push
+,Strength,Chest,0,Dumbbell,Isolation,Beginner,No,Push
+,Strength,Shoulders,0,Dumbbell,Isolation,Beginner,No,Push
+,Strength,Shoulders,0,Kettlebells,Compound,Intermediate,No,Push
+,Strength,Shoulders, Calves Quadriceps Triceps,Kettlebells,Compound,Intermediate,No,Push
+,Strength,Shoulders, Triceps,Kettlebells,Compound,Intermediate,No,Push
+,Strength,MiddleBack, Biceps Lats,Kettlebells,Compound,Intermediate,No,Pull
+,Strength,Shoulders, Glutes Hamstrings Quadriceps Triceps,Kettlebells,Compound,Intermediate,No,Push
+,Strength,Hamstrings, Calves Glutes LowerBack Shoulders,Kettlebells,Compound,Intermediate,No,Pull
+,Strength,Abdominals, Lats Shoulders,MedicineBall,Compound,Beginner,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings Shoulders,Kettlebells,Compound,Expert,No,Push
+,Strength,Shoulders,0,Dumbbell,Isolation,Beginner,No,Push
+,Strength,Hamstrings, Glutes LowerBack Quadriceps Shoulders,Kettlebells,Compound,Expert,No,Pull
+,Strength,Biceps,0,Cable,Isolation,Intermediate,No,Pull
+,Plyometrics,Lats,0,MedicineBall,Compound,Beginner,No,Pull
+,Stretching,Abdominals, Chest Forearms Lats Triceps,None,Compound,Beginner,No,Static
+,Strength,Abdominals, Chest Shoulders Triceps,Cable,Compound,Beginner,No,Pull
+,Strength,Forearms,0,Barbell,Isolation,Beginner,No,Pull
+,Strength,Forearms,0,Dumbbell,Isolation,Beginner,No,Pull
+,Stretching,LowerBack,0,None,Compound,Intermediate,No,Static
+,Stretching,Calves,0,FoamRoll,N/A,Intermediate,No,Static
+,Powerlifting,Triceps, Chest Forearms Lats MiddleBack Shoulders,Barbell,Compound,Intermediate,No,Push
+,Strength,Abdominals,0,BodyOnly,Isolation,Beginner,No,Static
+,Strength,Forearms,0,Other,Isolation,Intermediate,No,Static
+,Strength,Hamstrings, Glutes,Other,Isolation,Beginner,No,Pull
+,Strength,Chest, Shoulders Triceps,Kettlebells,Compound,Expert,No,Push
+,Stretching,Calves,0,Other,N/A,Intermediate,No,Static
+,OlympicWeightlifting,Hamstrings, Quadriceps,Barbell,Compound,Intermediate,No,Pull
+,Strength,Shoulders,0,Dumbbell,Isolation,Beginner,No,Push
+,OlympicWeightlifting,Quadriceps, Calves Forearms Glutes Hamstrings LowerBack Shoulders Traps Triceps,Barbell,Compound,Intermediate,No,Pull
+,Strength,Biceps,0,Barbell,Isolation,Beginner,No,Pull
+,Strength,Abdominals, Chest Shoulders Triceps,Barbell,Compound,Expert,No,Push
+,Cardio,Hamstrings, Calves Chest Glutes Quadriceps Shoulders,Other,Compound,Beginner,No,Push
+,Strength,Lats, Biceps MiddleBack,BodyOnly,Compound,Beginner,No,Pull
+,OlympicWeightlifting,Shoulders, Calves Quadriceps Triceps,Barbell,Compound,Intermediate,No,Push
+,Strength,Chest, Abdominals Shoulders Triceps,BodyOnly,Compound,Beginner,No,N/A
+,Strength,Chest, Shoulders Triceps,BodyOnly,Compound,Beginner,No,Push
+,Strength,Chest, Shoulders Triceps,BodyOnly,Compound,Beginner,No,Push
+,Stretching,LowerBack, Shoulders,ExerciseBall,N/A,Beginner,No,Static
+,Strength,Abdominals, Chest Shoulders Triceps,Cable,Compound,Beginner,No,Pull
+,Strength,Forearms,0,Barbell,Isolation,Beginner,No,Pull
+,Strength,Forearms,0,Dumbbell,Isolation,Beginner,No,Pull
+,Stretching,LowerBack,0,None,Compound,Intermediate,No,Static
+,Stretching,Calves,0,FoamRoll,N/A,Intermediate,No,Static
+,Powerlifting,Triceps, Chest Forearms Lats MiddleBack Shoulders,Barbell,Compound,Intermediate,No,Push
+,Strength,Abdominals,0,BodyOnly,Isolation,Beginner,No,Static
+,Strength,Forearms,0,Other,Isolation,Intermediate,No,Static
+,Strength,Hamstrings, Glutes,Other,Isolation,Beginner,No,Pull
+,Strength,Chest, Shoulders Triceps,Kettlebells,Compound,Expert,No,Push
+,Stretching,Calves,0,Other,N/A,Intermediate,No,Static
+,OlympicWeightlifting,Hamstrings, Quadriceps,Barbell,Compound,Intermediate,No,Pull
+,Strength,Shoulders,0,Dumbbell,Isolation,Beginner,No,Push
+,OlympicWeightlifting,Quadriceps, Calves Forearms Glutes Hamstrings LowerBack Shoulders Traps Triceps,Barbell,Compound,Intermediate,No,Pull
+,Strength,Biceps,0,Barbell,Isolation,Beginner,No,Pull
+,Strength,Abdominals, Chest Shoulders Triceps,Barbell,Compound,Expert,No,Push
+,Cardio,Hamstrings, Calves Chest Glutes Quadriceps Shoulders,Other,Compound,Beginner,No,Push
+,Strength,Lats, Biceps MiddleBack,BodyOnly,Compound,Beginner,No,Pull
+,OlympicWeightlifting,Shoulders, Calves Quadriceps Triceps,Barbell,Compound,Intermediate,No,Push
+,Strength,Chest, Abdominals Shoulders Triceps,BodyOnly,Compound,Beginner,No,N/A
+,Strength,Chest, Shoulders Triceps,BodyOnly,Compound,Beginner,No,Push
+,Strength,Chest, Shoulders Triceps,BodyOnly,Compound,Beginner,No,Push
+,Stretching,LowerBack, Shoulders,ExerciseBall,N/A,Beginner,No,Static
+,Stretching,Quadriceps,0,Other,N/A,Intermediate,No,Static
+,Plyometrics,Quadriceps, Calves Hamstrings,Other,Compound,Beginner,No,Push
+,Stretching,Quadriceps,0,Other,N/A,Intermediate,No,Static
+,Plyometrics,Quadriceps, Calves Hamstrings,Other,Compound,Beginner,No,Push
+,OlympicWeightlifting,Shoulders, Forearms Traps,Barbell,Compound,Intermediate,No,Pull
+,Powerlifting,LowerBack, Forearms Glutes Hamstrings Traps,Barbell,Compound,Intermediate,No,Pull
+,Cardio,Quadriceps, Calves Glutes Hamstrings,Machine,N/A,Beginner,Indoor,No
+,Powerlifting,Triceps, Chest Forearms Lats MiddleBack Shoulders,Barbell,Compound,Intermediate,No,Push
+,Powerlifting,LowerBack, Abductors Adductors Calves Glutes Hamstrings Quadriceps,Barbell,Compound,Expert,No,Pull
+,Powerlifting,Hamstrings, Abductors Adductors Calves Forearms Glutes LowerBack Quadriceps Traps,Barbell,Compound,Expert,No,Pull
+,Strength,Biceps, Forearms,E-ZCurlBar,Isolation,Intermediate,No,Pull
+,Strength,Abdominals,0,BodyOnly,Isolation,Beginner,No,Pull
+,Strength,Shoulders,0,Dumbbell,Isolation,Intermediate,No,Pull
+,Strength,Triceps,0,Cable,Isolation,Beginner,No,Push
+,Strength,Shoulders,0,Machine,Isolation,Beginner,No,Pull
+,Strength,Triceps, Chest Shoulders,Barbell,Compound,Intermediate,No,Push
+,Strongman,Forearms, Abdominals Calves Glutes Hamstrings LowerBack Quadriceps Traps,Other,Compound,Intermediate,Yes,N/A
+,Strength,Triceps, Chest Shoulders,Other,Compound,Intermediate,No,Push
+,Strength,Calves,0,Barbell,Isolation,Beginner,No,Push
+,Strength,Hamstrings, Calves Glutes LowerBack,Barbell,Compound,Intermediate,No,Pull
+,Strength,Lats, Biceps Forearms MiddleBack Shoulders,Other,Compound,Intermediate,No,Pull
+,Cardio,Quadriceps, Calves Hamstrings,Other,N/A,Intermediate,Both,No
+,Stretching,Shoulders, Biceps Chest,Other,N/A,Beginner,No,Static
+,Stretching,Hamstrings, Calves,None,N/A,Beginner,No,Static
+,Strength,Abdominals, LowerBack,BodyOnly,Compound,Intermediate,No,Pull
+,OlympicWeightlifting,Shoulders, Forearms Traps,Barbell,Compound,Intermediate,No,Pull
+,Powerlifting,LowerBack, Forearms Glutes Hamstrings Traps,Barbell,Compound,Intermediate,No,Pull
+,Cardio,Quadriceps, Calves Glutes Hamstrings,Machine,N/A,Beginner,Indoor,No
+,Powerlifting,Triceps, Chest Forearms Lats MiddleBack Shoulders,Barbell,Compound,Intermediate,No,Push
+,Powerlifting,LowerBack, Abductors Adductors Calves Glutes Hamstrings Quadriceps,Barbell,Compound,Expert,No,Pull
+,Powerlifting,Hamstrings, Abductors Adductors Calves Forearms Glutes LowerBack Quadriceps Traps,Barbell,Compound,Expert,No,Pull
+,Strength,Biceps, Forearms,E-ZCurlBar,Isolation,Intermediate,No,Pull
+,Strength,Abdominals,0,BodyOnly,Isolation,Beginner,No,Pull
+,Strength,Shoulders,0,Dumbbell,Isolation,Intermediate,No,Pull
+,Strength,Triceps,0,Cable,Isolation,Beginner,No,Push
+,Strength,Shoulders,0,Machine,Isolation,Beginner,No,Pull
+,Strength,Triceps, Chest Shoulders,Barbell,Compound,Intermediate,No,Push
+,Strongman,Forearms, Abdominals Calves Glutes Hamstrings LowerBack Quadriceps Traps,Other,Compound,Intermediate,Yes,N/A
+,Strength,Triceps, Chest Shoulders,Other,Compound,Intermediate,No,Push
+,Strength,Calves,0,Barbell,Isolation,Beginner,No,Push
+,Strength,Hamstrings, Calves Glutes LowerBack,Barbell,Compound,Intermediate,No,Pull
+,Strength,Lats, Biceps Forearms MiddleBack Shoulders,Other,Compound,Intermediate,No,Pull
+,Cardio,Quadriceps, Calves Hamstrings,Other,N/A,Intermediate,Both,No
+,Stretching,Shoulders, Biceps Chest,Other,N/A,Beginner,No,Static
+,Stretching,Hamstrings, Calves,None,N/A,Beginner,No,Static
+,Strength,Abdominals, LowerBack,BodyOnly,Compound,Intermediate,No,Pull
+,Strongman,Quadriceps, Abdominals Biceps Calves Forearms Glutes Hamstrings LowerBack MiddleBack Shoulders Traps,Other,Compound,Beginner,Yes,Pull
+,Stretching,Abdominals,0,BodyOnly,Isolation,Beginner,No,Pull
+,Strength,Hamstrings,0,Other,Isolation,Beginner,No,Pull
+,Strength,Abdominals,0,Barbell,Isolation,Beginner,No,Pull
+,Strength,Shoulders,0,Dumbbell,Isolation,Intermediate,No,Pull
+,Stretching,Biceps, Chest Shoulders,BodyOnly,Isolation,Expert,No,Static
+,Strength,Shoulders, Triceps,Cable,Compound,Beginner,No,Push
+,Stretching,Calves, Hamstrings LowerBack,None,N/A,Beginner,No,Static
+,Strength,Biceps,0,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Forearms,0,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Shoulders, Triceps,Dumbbell,Compound,Beginner,No,Push
+,Stretching,Hamstrings, Calves,None,N/A,Beginner,No,Static
+,Stretching,Glutes, Adductors,BodyOnly,N/A,Expert,No,Static
+,Stretching,Hamstrings, Calves,None,N/A,Expert,No,Static
+,Strength,Neck,0,Other,Isolation,Intermediate,No,Pull
+,Strength,Abdominals,0,BodyOnly,Isolation,Beginner,No,Pull
+,Strength,Forearms,0,Dumbbell,Isolation,Intermediate,No,Pull
+,Stretching,Abdominals,0,None,Isolation,Beginner,No,Static
+,Strength,Forearms,0,Barbell,Isolation,Beginner,No,Pull
+,Strength,Triceps,0,Dumbbell,Isolation,Beginner,No,Push
+,Strength,Shoulders, Abdominals Triceps,Dumbbell,Compound,Intermediate,No,Push
+,Stretching,Shoulders, Traps,None,N/A,Beginner,No,Pull
+,Stretching,Shoulders, Lats,None,N/A,Beginner,No,Pull
+,Strength,Abdominals, Shoulders,BodyOnly,N/A,Beginner,No,Static
+,Strength,Abdominals,0,BodyOnly,Compound,Beginner,No,Pull
+,Strength,Shoulders, Traps,Dumbbell,Isolation,Beginner,No,Push
+,Stretching,Adductors, Hamstrings,None,Isolation,Beginner,No,Static
+,Plyometrics,Quadriceps, Calves Glutes Hamstrings,None,Compound,Beginner,No,Push
+,Strength,Lats, Biceps Forearms MiddleBack Shoulders,Other,Compound,Intermediate,No,Pull
+,Stretching,Lats,0,None,N/A,Beginner,No,Static
+,Plyometrics,Quadriceps, Calves Hamstrings,BodyOnly,Compound,Beginner,No,Push
+,Plyometrics,Quadriceps, Calves Hamstrings,Other,Compound,Beginner,No,Push
+,Strength,Shoulders, Chest Triceps,Barbell,Compound,Intermediate,No,Push
+,Plyometrics,Quadriceps, Calves Glutes Hamstrings,Other,N/A,Beginner,No,Push
+,Plyometrics,Quadriceps, Abductors Adductors Calves Hamstrings,Other,Compound,Beginner,No,Push
+,Strength,Quadriceps,0,Machine,Isolation,Beginner,No,Push
+,Stretching,Quadriceps, Abductors Glutes Hamstrings,None,N/A,Beginner,No,Push
+,Cardio,Quadriceps, Abductors Adductors Calves Glutes Hamstrings,Other,N/A,Intermediate,No,N/A
+,Strength,Shoulders, Calves MiddleBack Quadriceps,Other,Compound,Beginner,No,Pull
+,Strongman,Quadriceps, Calves Chest Glutes Hamstrings Triceps,Other,Compound,Beginner,No,Push
+,Strength,MiddleBack, Biceps Lats,Other,Compound,Beginner,No,Pull
+,Strength,Shoulders, Chest,Barbell,Isolation,Beginner,No,Push
+,Strength,Chest, Shoulders Triceps,Machine,Compound,Beginner,No,Push
+,Strength,Calves,0,Machine,Isolation,Beginner,No,Push
+,Strength,Chest, Shoulders Triceps,Machine,Compound,Beginner,No,N/A
+,Strength,Abdominals,0,Machine,Isolation,Beginner,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings,Machine,Compound,Intermediate,No,Push
+,Strength,Shoulders, Triceps,Machine,Compound,Beginner,No,Push
+,Strength,Calves,0,Machine,Isolation,Beginner,No,Push
+,Strength,Quadriceps, Calves Glutes Hamstrings LowerBack,Machine,Compound,Beginner,No,Push
+,Strength,Traps, Biceps MiddleBack Shoulders,Machine,Compound,Beginner,No,Pull
+,OlympicWeightlifting,Quadriceps, Biceps Glutes Hamstrings LowerBack Shoulders Traps Triceps,Barbell,Compound,Intermediate,No,Pull
+,OlympicWeightlifting,Hamstrings, Forearms Glutes Hamstrings LowerBack Quadriceps Traps,Barbell,Compound,Intermediate,No,Pull
+,Strength,Hamstrings, Calves Glutes LowerBack Quadriceps Traps,Barbell,Compound,Intermediate,No,Pull
+,Strength,Triceps,0,Bands,Isolation,Beginner,No,Push
+,Powerlifting,Quadriceps, Calves Glutes Hamstrings,Barbell,Compound,Intermediate,No,Push
+,Strength,Abdominals, Glutes Shoulders,Dumbbell,Compound,Beginner,No,Pull
+,Strength,Biceps,0,E-ZCurlBar,Isolation,Beginner,No,Pull
+,OlympicWeightlifting,Quadriceps, Calves Forearms Glutes Hamstrings LowerBack Shoulders Traps,Barbell,Compound,Intermediate,No,Pull
+,Plyometrics,Quadriceps, Calves Glutes Hamstrings,BodyOnly,Compound,Beginner,No,Push
+,Strength,Quadriceps, Glutes Hamstrings,Dumbbell,Compound,Beginner,No,Push
+,Strength,Quadriceps, Calves Glutes Hamstrings Shoulders Triceps,Barbell,Compound,Expert,No,Push
+,Powerlifting,Quadriceps, Adductors Calves Glutes Hamstrings LowerBack,Barbell,Compound,Intermediate,No,Push
+,Strength,Quadriceps, Calves Glutes Hamstrings LowerBack,Bands,Compound,Beginner,No,Push
+,Strength,Shoulders, Triceps,Dumbbell,Compound,Beginner,No,Push
+,Strength,Shoulders, Triceps,Barbell,Compound,Intermediate,No,Push
+,Strength,Triceps,0,Dumbbell,Isolation,Beginner,No,Push
+,Stretching,Biceps, Chest Shoulders,Other,Isolation,Beginner,No,Static
+,Strength,Chest, Shoulders Triceps,Cable,Compound,Beginner,No,Push
+,Strength,Abdominals, Shoulders,Cable,Compound,Beginner,No,Pull
+,Strength,Biceps, Forearms,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Shoulders, Triceps,Dumbbell,Compound,Beginner,No,Push
+,Strength,Shoulders,0,Dumbbell,Isolation,Intermediate,No,Push
+,Strength,Traps, Biceps Shoulders,Dumbbell,Compound,Beginner,No,Pull
+,Strength,Shoulders,0,Barbell,Isolation,Intermediate,No,Push
+,Stretching,Hamstrings,0,Other,N/A,Beginner,No,Static
+,Stretching,Quadriceps,0,None,Isolation,Beginner,No,Static
+,Stretching,Abdominals,0,None,N/A,Beginner,No,Static
+,Plyometrics,Quadriceps, Calves Glutes Hamstrings,BodyOnly,Compound,Beginner,No,Push
+,Strength,Triceps, Chest Shoulders,Cable,Isolation,Intermediate,No,Push
+,Strength,Forearms, Biceps,Other,Isolation,Beginner,No,Static
+,Strength,Biceps,0,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Triceps, Shoulders,Barbell,Isolation,Beginner,No,Push
+,Strength,Shoulders, Triceps,Dumbbell,Compound,Intermediate,No,Push
+,Stretching,LowerBack, Glutes,None,Isolation,Beginner,No,Static
+,Stretching,Calves,0,None,Isolation,Beginner,No,Static
+,Strength,Triceps,0,BodyOnly,Isolation,Beginner,No,Push
+,Plyometrics,Quadriceps, Calves Glutes Hamstrings Shoulders,BodyOnly,Compound,Beginner,No,Push
+,Strength,Glutes, Hamstrings Quadriceps,BodyOnly,Compound,Beginner,No,Push
+,Strength,Hamstrings, Glutes LowerBack,Barbell,Compound,Intermediate,No,Pull
+,Stretching,Abdominals,0,BodyOnly,Isolation,Beginner,No,Static
+,Strength,Shoulders, Traps,Barbell,Isolation,Beginner,No,Push
+,Strength,Lats,0,Cable,Isolation,Beginner,No,Pull
+,Powerlifting,Hamstrings, Adductors Forearms Glutes LowerBack MiddleBack Quadriceps Traps,Barbell,Compound,Intermediate,Yes,Pull
+,Powerlifting,Hamstrings, Abductors Adductors Forearms Glutes LowerBack MiddleBack Quadriceps Traps,Barbell,Compound,Intermediate,No,Pull
+,Plyometrics,Triceps, Chest Shoulders,MedicineBall,Compound,Beginner,No,Push
+,Plyometrics,Abdominals, Chest Lats Shoulders,MedicineBall,Compound,Beginner,No,Pull
+,Strength,Abdominals,0,Other,Isolation,Beginner,No,Pull
+,Strength,Quadriceps, Abductors Adductors Calves Glutes Hamstrings,Other,Compound,Intermediate,No,Push
+,Strongman,Quadriceps, Abdominals Biceps Calves Forearms Glutes Hamstrings LowerBack MiddleBack Shoulders Traps,Other,Compound,Beginner,Yes,Pull
+,Stretching,Abdominals,0,BodyOnly,Isolation,Beginner,No,Pull
+,Strength,Hamstrings,0,Other,Isolation,Beginner,No,Pull
+,Strength,Abdominals,0,Barbell,Isolation,Beginner,No,Pull
+,Strength,Shoulders,0,Dumbbell,Isolation,Intermediate,No,Pull
+,Stretching,Biceps, Chest Shoulders,BodyOnly,Isolation,Expert,No,Static
+,Strength,Shoulders, Triceps,Cable,Compound,Beginner,No,Push
+,Stretching,Calves, Hamstrings LowerBack,None,N/A,Beginner,No,Static
+,Strength,Biceps,0,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Forearms,0,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Shoulders, Triceps,Dumbbell,Compound,Beginner,No,Push
+,Stretching,Hamstrings, Calves,None,N/A,Beginner,No,Static
+,Stretching,Glutes, Adductors,BodyOnly,N/A,Expert,No,Static
+,Stretching,Hamstrings, Calves,None,N/A,Expert,No,Static
+,Strength,Neck,0,Other,Isolation,Intermediate,No,Pull
+,Strength,Abdominals,0,BodyOnly,Isolation,Beginner,No,Pull
+,Strength,Forearms,0,Dumbbell,Isolation,Intermediate,No,Pull
+,Stretching,Abdominals,0,None,Isolation,Beginner,No,Static
+,Strength,Forearms,0,Barbell,Isolation,Beginner,No,Pull
+,Strength,Triceps,0,Dumbbell,Isolation,Beginner,No,Push
+,Strength,Shoulders, Abdominals Triceps,Dumbbell,Compound,Intermediate,No,Push
+,Stretching,Shoulders, Traps,None,N/A,Beginner,No,Pull
+,Stretching,Shoulders, Lats,None,N/A,Beginner,No,Pull
+,Strength,Abdominals, Shoulders,BodyOnly,N/A,Beginner,No,Static
+,Strength,Abdominals,0,BodyOnly,Compound,Beginner,No,Pull
+,Strength,Shoulders, Traps,Dumbbell,Isolation,Beginner,No,Push
+,Stretching,Adductors, Hamstrings,None,Isolation,Beginner,No,Static
+,Plyometrics,Quadriceps, Calves Glutes Hamstrings,None,Compound,Beginner,No,Push
+,Strength,Lats, Biceps Forearms MiddleBack Shoulders,Other,Compound,Intermediate,No,Pull
+,Stretching,Lats,0,None,N/A,Beginner,No,Static
+,Plyometrics,Quadriceps, Calves Hamstrings,BodyOnly,Compound,Beginner,No,Push
+,Plyometrics,Quadriceps, Calves Hamstrings,Other,Compound,Beginner,No,Push
+,Strength,Shoulders, Chest Triceps,Barbell,Compound,Intermediate,No,Push
+,Plyometrics,Quadriceps, Calves Glutes Hamstrings,Other,N/A,Beginner,No,Push
+,Plyometrics,Quadriceps, Abductors Adductors Calves Hamstrings,Other,Compound,Beginner,No,Push
+,Strength,Quadriceps,0,Machine,Isolation,Beginner,No,Push
+,Stretching,Quadriceps, Abductors Glutes Hamstrings,None,N/A,Beginner,No,Push
+,Cardio,Quadriceps, Abductors Adductors Calves Glutes Hamstrings,Other,N/A,Intermediate,No,N/A
+,Strength,Shoulders, Calves MiddleBack Quadriceps,Other,Compound,Beginner,No,Pull
+,Strongman,Quadriceps, Calves Chest Glutes Hamstrings Triceps,Other,Compound,Beginner,No,Push
+,Strength,MiddleBack, Biceps Lats,Other,Compound,Beginner,No,Pull
+,Strength,Shoulders, Chest,Barbell,Isolation,Beginner,No,Push
+,Strength,Chest, Shoulders Triceps,Machine,Compound,Beginner,No,Push
+,Strength,Calves,0,Machine,Isolation,Beginner,No,Push
+,Strength,Chest, Shoulders Triceps,Machine,Compound,Beginner,No,N/A
+,Strength,Abdominals,0,Machine,Isolation,Beginner,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings,Machine,Compound,Intermediate,No,Push
+,Strength,Shoulders, Triceps,Machine,Compound,Beginner,No,Push
+,Strength,Calves,0,Machine,Isolation,Beginner,No,Push
+,Strength,Quadriceps, Calves Glutes Hamstrings LowerBack,Machine,Compound,Beginner,No,Push
+,Strength,Traps, Biceps MiddleBack Shoulders,Machine,Compound,Beginner,No,Pull
+,OlympicWeightlifting,Quadriceps, Biceps Glutes Hamstrings LowerBack Shoulders Traps Triceps,Barbell,Compound,Intermediate,No,Pull
+,OlympicWeightlifting,Hamstrings, Forearms Glutes Hamstrings LowerBack Quadriceps Traps,Barbell,Compound,Intermediate,No,Pull
+,Strength,Hamstrings, Calves Glutes LowerBack Quadriceps Traps,Barbell,Compound,Intermediate,No,Pull
+,Strength,Triceps,0,Bands,Isolation,Beginner,No,Push
+,Powerlifting,Quadriceps, Calves Glutes Hamstrings,Barbell,Compound,Intermediate,No,Push
+,Strength,Abdominals, Glutes Shoulders,Dumbbell,Compound,Beginner,No,Pull
+,Strength,Biceps,0,E-ZCurlBar,Isolation,Beginner,No,Pull
+,OlympicWeightlifting,Quadriceps, Calves Forearms Glutes Hamstrings LowerBack Shoulders Traps,Barbell,Compound,Intermediate,No,Pull
+,Plyometrics,Quadriceps, Calves Glutes Hamstrings,BodyOnly,Compound,Beginner,No,Push
+,Strength,Quadriceps, Glutes Hamstrings,Dumbbell,Compound,Beginner,No,Push
+,Strength,Quadriceps, Calves Glutes Hamstrings Shoulders Triceps,Barbell,Compound,Expert,No,Push
+,Powerlifting,Quadriceps, Adductors Calves Glutes Hamstrings LowerBack,Barbell,Compound,Intermediate,No,Push
+,Strength,Quadriceps, Calves Glutes Hamstrings LowerBack,Bands,Compound,Beginner,No,Push
+,Strength,Shoulders, Triceps,Dumbbell,Compound,Beginner,No,Push
+,Strength,Shoulders, Triceps,Barbell,Compound,Intermediate,No,Push
+,Strength,Triceps,0,Dumbbell,Isolation,Beginner,No,Push
+,Stretching,Biceps, Chest Shoulders,Other,Isolation,Beginner,No,Static
+,Strength,Chest, Shoulders Triceps,Cable,Compound,Beginner,No,Push
+,Strength,Abdominals, Shoulders,Cable,Compound,Beginner,No,Pull
+,Strength,Biceps, Forearms,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Shoulders, Triceps,Dumbbell,Compound,Beginner,No,Push
+,Strength,Shoulders,0,Dumbbell,Isolation,Intermediate,No,Push
+,Strength,Traps, Biceps Shoulders,Dumbbell,Compound,Beginner,No,Pull
+,Strength,Shoulders,0,Barbell,Isolation,Intermediate,No,Push
+,Stretching,Hamstrings,0,Other,N/A,Beginner,No,Static
+,Stretching,Quadriceps,0,None,Isolation,Beginner,No,Static
+,Stretching,Abdominals,0,None,N/A,Beginner,No,Static
+,Plyometrics,Quadriceps, Calves Glutes Hamstrings,BodyOnly,Compound,Beginner,No,Push
+,Strength,Triceps, Chest Shoulders,Cable,Isolation,Intermediate,No,Push
+,Strength,Forearms, Biceps,Other,Isolation,Beginner,No,Static
+,Strength,Biceps,0,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Triceps, Shoulders,Barbell,Isolation,Beginner,No,Push
+,Strength,Shoulders, Triceps,Dumbbell,Compound,Intermediate,No,Push
+,Stretching,LowerBack, Glutes,None,Isolation,Beginner,No,Static
+,Stretching,Calves,0,None,Isolation,Beginner,No,Static
+,Strength,Triceps,0,BodyOnly,Isolation,Beginner,No,Push
+,Plyometrics,Quadriceps, Calves Glutes Hamstrings Shoulders,BodyOnly,Compound,Beginner,No,Push
+,Strength,Glutes, Hamstrings Quadriceps,BodyOnly,Compound,Beginner,No,Push
+,Strength,Hamstrings, Glutes LowerBack,Barbell,Compound,Intermediate,No,Pull
+,Stretching,Abdominals,0,BodyOnly,Isolation,Beginner,No,Static
+,Strength,Shoulders, Traps,Barbell,Isolation,Beginner,No,Push
+,Strength,Lats,0,Cable,Isolation,Beginner,No,Pull
+,Powerlifting,Hamstrings, Adductors Forearms Glutes LowerBack MiddleBack Quadriceps Traps,Barbell,Compound,Intermediate,Yes,Pull
+,Powerlifting,Hamstrings, Abductors Adductors Forearms Glutes LowerBack MiddleBack Quadriceps Traps,Barbell,Compound,Intermediate,No,Pull
+,Plyometrics,Triceps, Chest Shoulders,MedicineBall,Compound,Beginner,No,Push
+,Plyometrics,Abdominals, Chest Lats Shoulders,MedicineBall,Compound,Beginner,No,Pull
+,Strength,Abdominals,0,Other,Isolation,Beginner,No,Pull
+,Strength,Quadriceps, Abductors Adductors Calves Glutes Hamstrings,Other,Compound,Intermediate,No,Push
+,Strength,MiddleBack, Biceps Lats,Barbell,Compound,Beginner,No,Pull
+,Stretching,Hamstrings, Adductors Calves,None,N/A,Beginner,No,Static
+,Strength,Adductors, Glutes Hamstrings,Machine,Isolation,Beginner,No,Pull
+,Stretching,Abdominals,0,BodyOnly,Isolation,Beginner,No,Pull
+,Cardio,Quadriceps, Calves Glutes Hamstrings,None,N/A,Beginner,Outdoor,No
+,Strength,Triceps,0,Dumbbell,Isolation,Beginner,No,Push
+,Strength,Triceps,0,Cable,Isolation,Beginner,No,Push
+,Strength,Triceps,0,Cable,Isolation,Beginner,No,Push
+,Stretching,Triceps, Lats,None,Isolation,Beginner,No,Static
+,Strength,Biceps,0,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Shoulders, Calves Quadriceps Triceps,Kettlebells,Compound,Intermediate,No,Push
+,Strength,MiddleBack, Biceps Lats,Kettlebells,Compound,Intermediate,No,Pull
+,Strength,MiddleBack, Biceps Lats,Barbell,Compound,Beginner,No,Pull
+,Stretching,Hamstrings, Adductors Calves,None,N/A,Beginner,No,Static
+,Strength,Adductors, Glutes Hamstrings,Machine,Isolation,Beginner,No,Pull
+,Stretching,Abdominals,0,BodyOnly,Isolation,Beginner,No,Pull
+,Cardio,Quadriceps, Calves Glutes Hamstrings,None,N/A,Beginner,Outdoor,No
+,Strength,Triceps,0,Dumbbell,Isolation,Beginner,No,Push
+,Strength,Triceps,0,Cable,Isolation,Beginner,No,Push
+,Strength,Triceps,0,Cable,Isolation,Beginner,No,Push
+,Stretching,Triceps, Lats,None,Isolation,Beginner,No,Static
+,Strength,Biceps,0,Dumbbell,Isolation,Beginner,No,Pull
+,Strength,Shoulders, Calves Quadriceps Triceps,Kettlebells,Compound,Intermediate,No,Push
+,Strength,MiddleBack, Biceps Lats,Kettlebells,Compound,Intermediate,No,Pull
+,Strength,Lats, Biceps MiddleBack Shoulders,Cable,Compound,Beginner,No,Pull
+,Stretching,Hamstrings, LowerBack MiddleBack,None,N/A,Beginner,No,Static
+,Strength,Traps, Shoulders,Cable,Compound,Intermediate,No,Pull
+,Stretching,Shoulders, Chest Lats,None,N/A,Beginner,No,Static
+,Strength,Lats, Biceps MiddleBack Shoulders,Cable,Compound,Beginner,No,Pull
+,Stretching,Hamstrings, LowerBack MiddleBack,None,N/A,Beginner,No,Static
+,Strength,Traps, Shoulders,Cable,Compound,Intermediate,No,Pull
+,Stretching,Shoulders, Chest Lats,None,N/A,Beginner,No,Static
+,Strength,Lats, Biceps MiddleBack Shoulders,Cable,Compound,Intermediate,No,Pull
+,Plyometrics,Hamstrings, Glutes Quadriceps Shoulders,Dumbbell,Compound,Beginner,No,Pull
+,Strength,Lats, Biceps MiddleBack Shoulders,Cable,Compound,Intermediate,No,Pull
+,Plyometrics,Hamstrings, Glutes Quadriceps Shoulders,Dumbbell,Compound,Beginner,No,Pull
+,Cardio,Quadriceps, Calves Glutes Hamstrings,Machine,N/A,Beginner,No,N/A
+,Strength,Abdominals,0,ExerciseBall,Isolation,Intermediate,No,Pull
+,Strength,Abdominals,0,MedicineBall,Isolation,Beginner,No,Pull
+,Strength,Lats, Biceps MiddleBack,Other,Compound,Intermediate,No,Pull
+,Strength,Abdominals,0,Other,Isolation,Intermediate,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings LowerBack,Barbell,Compound,Intermediate,No,Push
+,Strength,Chest, Shoulders Triceps,Barbell,Compound,Intermediate,No,Push
+,Strength,Chest, Shoulders Triceps,Barbell,Compound,Intermediate,No,Pull
+,Strength,Lats, Biceps MiddleBack Shoulders,Cable,Compound,Intermediate,No,Pull
+,Strength,Biceps,0,Barbell,Isolation,Beginner,No,Pull
+,Stretching,Abductors, Glutes Hamstrings LowerBack,None,N/A,Intermediate,No,Pull
+,Stretching,Forearms,0,BodyOnly,Isolation,Beginner,No,Pull
+,Strength,Forearms,0,Barbell,Isolation,Beginner,No,Pull
+,Cardio,Quadriceps, Calves Glutes Hamstrings,Machine,N/A,Beginner,No,N/A
+,Strength,Abdominals,0,ExerciseBall,Isolation,Intermediate,No,Pull
+,Strength,Abdominals,0,MedicineBall,Isolation,Beginner,No,Pull
+,Strength,Lats, Biceps MiddleBack,Other,Compound,Intermediate,No,Pull
+,Strength,Abdominals,0,Other,Isolation,Intermediate,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings LowerBack,Barbell,Compound,Intermediate,No,Push
+,Strength,Chest, Shoulders Triceps,Barbell,Compound,Intermediate,No,Push
+,Strength,Chest, Shoulders Triceps,Barbell,Compound,Intermediate,No,Pull
+,Strength,Lats, Biceps MiddleBack Shoulders,Cable,Compound,Intermediate,No,Pull
+,Strength,Biceps,0,Barbell,Isolation,Beginner,No,Pull
+,Stretching,Abductors, Glutes Hamstrings LowerBack,None,N/A,Intermediate,No,Pull
+,Stretching,Forearms,0,BodyOnly,Isolation,Beginner,No,Pull
+,Strength,Forearms,0,Barbell,Isolation,Beginner,No,Pull
+,Strongman,Quadriceps, Abdominals Abductors Adductors Calves Glutes Hamstrings LowerBack,Other,Compound,Intermediate,Yes,N/A
+,Strongman,Quadriceps, Abdominals Abductors Adductors Calves Glutes Hamstrings LowerBack,Other,Compound,Intermediate,Yes,N/A
+,Strength,Quadriceps, Calves Glutes Hamstrings,Barbell,Compound,Expert,No,Push
+,Strength,Biceps, Forearms,Dumbbell,Isolation,Intermediate,No,Pull
+,Strength,Quadriceps, Calves Glutes Hamstrings,Barbell,Compound,Expert,No,Push
+,Strength,Biceps, Forearms,Dumbbell,Isolation,Intermediate,No,Pull

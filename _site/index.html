@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en" ng-app>
+  <head>
+    <link rel="stylesheet"type="text/css" href="app.css"/>
+    <link rel="stylesheet"type="text/css" href="main.css"/>
+    <link rel="stylesheet"type="text/css" 
+    href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet"type="text/css" href="http://netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css"/>
+    <script type="text/javascript" src="//use.typekit.net/xot5dpb.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script src="lib/angular/angular.js"></script>
+    <script src="lib/angular/angular-resource.js"></script>
+    <script src="js/controllers.js"></script>
+  </head>
+  <body>
+      <table id="navbar">
+        <tr>
+          <td class="" id="navbar-first">
+            <a href="#" id="logo">S</a>
+          </td>
+          <td class="navbar-group" id="navbar-second">
+            <input id="search-bar" type="text"
+            placeholder="Search for Exercises, Equipment and Workouts"/>
+          </td>
+          <td class="navbar-group" id="navbar-third">
+            <a href="#" class="navbar_btn" id="likes">
+              <center>
+              <div href="#" id="settings-logo" class="logo">
+                <i class="icon icon-user"></i>
+              </div>
+              </center>
+            </a>
+            <a href="#" class="navbar_btn" id="exercises">
+              <center>
+              <div href="#" id="exercises-logo" class="logo">
+                <i class="icon icon-reorder"></i>
+              </div>
+              </center>
+            </a>
+            <a href="#" class="navbar_btn" id="settings">
+              <center>
+              <div href="#" id="likes-logo" class="logo">
+                <i class="icon icon-star"></i>
+              </div>
+              </center>
+            </a>
+          </td>
+        </tr>
+      <table>
+    <div id="main" ng-controller="ExercisesListController">
+      <div class="container">
+      <div class="row" ng-repeat="row in exerciseData">
+        <div class="col-md-3" ng-repeat="i in row">
+          <br/>
+          <div class="exercise-container">
+            <div class="exercise-info">
+              <span class="exercise-name">Shoulder Shrug</span>
+              <span class="exercise-favourites">
+                {{exercises.numOfStars}}
+                <i class="icon icon-star fav-icon"></i>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>
+    </div>
+  </body>
+</html>
