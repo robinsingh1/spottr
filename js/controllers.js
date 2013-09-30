@@ -7,20 +7,16 @@
   https://api.parse.com/1/classes/GameScore/Ed1nuqPvcm
 */
 
-/*
 angular.module('exercisesModule',[ngResource]).
-  factory('Exercise', function($resource)){
+  factory('Exercise', function($resource){
     return $resource('',{},{
       query:{method:'GET',params:{exerciseId:''},isArray:true}
     });
   });
-*/
 
 function processExerciseData(rawExercisesArray){
   numberOfRows = Math.ceil(rawExercisesArray.length/4)
   finalExerciseArray=[]
-  console.log('lmao1')
-  console.log(rawExercisesArray)
   for(i=0;i<numberOfRows;i++){
     finalExerciseArray.push(rawExercisesArray.slice(i*4,4*(i+1)));
   }

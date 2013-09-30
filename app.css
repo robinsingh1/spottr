@@ -6,6 +6,11 @@ html,table,body{
 #navbar{
   height:120px;
   width:100%;
+  position:fixed;
+  z-index:3;
+}
+#main{
+  padding-top:120px;
 }
 
 .navbar-group{
